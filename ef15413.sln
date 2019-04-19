@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ef15413", "ef15413\ef15413.csproj", "{0BE23F2F-527C-4FF9-8383-142FAE335AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ef15413_20", "ef15413_20\ef15413_20.csproj", "{4494995C-0318-47AB-A617-C8B992096CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ef15413_21", "ef15413_21\ef15413_21.csproj", "{58A8C2FF-9E9A-4BD4-99F7-7D04CBFB3635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE23F2F-527C-4FF9-8383-142FAE335AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE23F2F-527C-4FF9-8383-142FAE335AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE23F2F-527C-4FF9-8383-142FAE335AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE23F2F-527C-4FF9-8383-142FAE335AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4494995C-0318-47AB-A617-C8B992096CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4494995C-0318-47AB-A617-C8B992096CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4494995C-0318-47AB-A617-C8B992096CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4494995C-0318-47AB-A617-C8B992096CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A8C2FF-9E9A-4BD4-99F7-7D04CBFB3635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A8C2FF-9E9A-4BD4-99F7-7D04CBFB3635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A8C2FF-9E9A-4BD4-99F7-7D04CBFB3635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A8C2FF-9E9A-4BD4-99F7-7D04CBFB3635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00FAE900-AF17-415D-BB8C-A40513892493}
+	EndGlobalSection
+EndGlobal
